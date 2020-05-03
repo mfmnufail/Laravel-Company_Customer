@@ -1,3 +1,45 @@
+Admin : admin@admin.com ;
+Password : 123456789 ; 
+
+_______________
+Edit .env file
+===============
+DB_NAME :
+
+DB_USERNAME:
+
+DB_PASSWORD:
+
+________________
+php path changer
+================
+set PATH=%PATH%;F:\XAMPP\php
+
+________________________________
+run this insted composer install
+================================
+composer install
+
+composer update -vvv
+
+______________________________
+Creating a new laravel project
+==============================
+
+composer global require "laravel/installer"
+
+composer global about
+
+composer require laravel/ui
+
+php artisan ui vue --auth
+
+npm install && npm run dev
+
+php artisan serve
+
+===============================
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
